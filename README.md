@@ -1,3 +1,4 @@
+<body style="background-color:aquamarine;">
 <h1 id="challenge-markdown-pages-on-github">Challenge: Markdown Pages on GitHub</h1>
 <h2 id="links-to-other-pages">Links to other pages</h2>
 <h3 id="about-me">About me</h3>
