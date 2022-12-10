@@ -8,5 +8,3 @@
 <p><a href="design.md">Link to some of my designs</a></p>
 <h3 id="html-fizzbuzz">HTML FizzBuzz</h3>
 <p><a href="fizzbuzz.md">Link to FizzBuzz</a></p>
-<h3 id="project-requirements">Project requirements</h3>
-<p><a href="projectrequirements.md">Link to project requirements</a></p>
