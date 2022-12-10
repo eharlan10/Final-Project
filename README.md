@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <body style="background-color:khaki;">
 <h1 id="challenge-markdown-pages-on-github">Challenge: Markdown Pages on GitHub</h1>
 <h2 id="links-to-other-pages">Links to other pages</h2>
@@ -11,5 +9,3 @@
 <p><a href="Design.html">Link to some of my designs</a></p>
 <h3 id="html-fizzbuzz">HTML FizzBuzz</h3>
 <p><a href="fizzbuzz.html">Link to FizzBuzz</a></p>
-</body>
-</html>
